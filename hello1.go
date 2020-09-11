@@ -9,7 +9,7 @@ func number_judge(x int)string{
   if x%2 == 0 {
     str="-偶数uuu"
   } else {
-    str="-奇数"
+    str="-奇数uuu"
   }
   return str
 }
